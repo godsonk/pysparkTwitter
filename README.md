@@ -45,8 +45,8 @@ sudo chmod 777 home/spark-x.x.x-bin-hadoopy.y/python/pypspark
  ```
  pip3 install tweepy
  ```
- Then run the [tweetReader.py]() from the terminal
+ Then run the [TweetRead.py](TweetRead.py) from the terminal
 
 ## Run the notebook to process the tweets
 
-Check [TwitterApplication.ipynb]() for more details
+Check [TwitterApplication.ipynb](TwitterApplication.ipynb) for more details
